@@ -1,4 +1,5 @@
 # Airbnb Database - ER Diagram Specification
+![ER Diagram](./airbnb_erd.png)
 
 ## Entities and Attributes
 
