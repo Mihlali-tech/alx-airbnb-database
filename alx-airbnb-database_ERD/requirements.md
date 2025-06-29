@@ -1,5 +1,5 @@
 # Airbnb Database - ER Diagram Specification
-![ER Diagram](./airbnb_erd.png)
+
 
 ## Entities and Attributes
 
@@ -73,3 +73,4 @@
 - Indexes on email, property_id, booking_id.
 
 ---
+![Entity Relationship Diagram](airbnb_erd.png)
